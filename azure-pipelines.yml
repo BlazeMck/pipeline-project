@@ -17,6 +17,10 @@ variables:
 steps:
 - task: NuGetToolInstaller@1
 
+- script: 'echo "$(buildConfiguration), $(Build.DefinitionName), $(Build.BuildId), $(Build.BuildNumber)" > buildinfo.txt'
+  displayName: 'Write build info'
+  workingDirectory: $(System.DefaultWorkingDirectory)
+  
 - task: NuGetCommand@2
   inputs:
     restoreSolution: '$(solution)'
@@ -28,7 +32,12 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: VSTest@2
+- task: NuGetCommand@2
   inputs:
-    platform: '$(buildPlatform)'
+    command: 'pack'
+    packagesToPack: '**/*.csproj'
+    versioningScheme: 'byPrereleaseNumber'
+    majorVersion: '1'
+    minorVersion: '0'
+    patchVersion: '0'
     configuration: '$(buildConfiguration)'
