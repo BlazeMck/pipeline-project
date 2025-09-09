@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace pipeline_project
 {
     // Class for holding Shipping Objects, Derivative of Item class and inherits IDiscount Interface
-    internal class Shipping : Item, IDiscount
+    public class Shipping : Item, IDiscount
     {
         int distance;
         double length, width, height, weight;

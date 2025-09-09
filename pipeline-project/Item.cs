@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace pipeline_project
 {
     // Base class Item for classes Shipping and Marketing
-    internal class Item
+    public class Item
     {
         string id;
         // product name for marketing, destination name for shipping
