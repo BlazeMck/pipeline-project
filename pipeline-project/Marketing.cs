@@ -8,10 +8,10 @@ namespace pipeline_project
 {
 
     // enum for more easily determining which volume rates to use
-    enum Type { basic = 1, expensive, cheap }
+    public enum Type { basic = 1, expensive, cheap }
 
     // Class for holding Marketing Objects, Derivative of Item class and inherits IDiscount Interface
-    internal class Marketing : Item, IDiscount
+    public class Marketing : Item, IDiscount
     {
         double cost, total;
         Type type;
