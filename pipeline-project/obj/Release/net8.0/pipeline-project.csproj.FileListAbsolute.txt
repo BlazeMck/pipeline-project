@@ -1,0 +1,14 @@
+C:\Users\4800603681\source\repos\pipeline-project\pipeline-project\bin\Release\net8.0\pipeline-project.exe
+C:\Users\4800603681\source\repos\pipeline-project\pipeline-project\bin\Release\net8.0\pipeline-project.deps.json
+C:\Users\4800603681\source\repos\pipeline-project\pipeline-project\bin\Release\net8.0\pipeline-project.runtimeconfig.json
+C:\Users\4800603681\source\repos\pipeline-project\pipeline-project\bin\Release\net8.0\pipeline-project.dll
+C:\Users\4800603681\source\repos\pipeline-project\pipeline-project\bin\Release\net8.0\pipeline-project.pdb
+C:\Users\4800603681\source\repos\pipeline-project\pipeline-project\obj\Release\net8.0\pipeline-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4800603681\source\repos\pipeline-project\pipeline-project\obj\Release\net8.0\pipeline-project.AssemblyInfoInputs.cache
+C:\Users\4800603681\source\repos\pipeline-project\pipeline-project\obj\Release\net8.0\pipeline-project.AssemblyInfo.cs
+C:\Users\4800603681\source\repos\pipeline-project\pipeline-project\obj\Release\net8.0\pipeline-project.csproj.CoreCompileInputs.cache
+C:\Users\4800603681\source\repos\pipeline-project\pipeline-project\obj\Release\net8.0\pipeline-project.dll
+C:\Users\4800603681\source\repos\pipeline-project\pipeline-project\obj\Release\net8.0\refint\pipeline-project.dll
+C:\Users\4800603681\source\repos\pipeline-project\pipeline-project\obj\Release\net8.0\pipeline-project.pdb
+C:\Users\4800603681\source\repos\pipeline-project\pipeline-project\obj\Release\net8.0\pipeline-project.genruntimeconfig.cache
+C:\Users\4800603681\source\repos\pipeline-project\pipeline-project\obj\Release\net8.0\ref\pipeline-project.dll
