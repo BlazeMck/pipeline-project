@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/DevOpsMcKinlayOrg/DevOpsMcKinlayProject/_apis/build/status%2FBlazeMck.pipeline-project?branchName=feature)](https://dev.azure.com/DevOpsMcKinlayOrg/DevOpsMcKinlayProject/_build/latest?definitionId=5&branchName=feature)
